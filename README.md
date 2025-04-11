@@ -52,7 +52,7 @@ This project integrates structural prediction, phylogenetic analysis, and functi
 	→ example treefiles and ancestor sequence file.
 
 ## Key Tools and Dependencies
-
+- requirement.txt
 - **AlphaFold / ColabFold** — for structure prediction  
 - **IQ-TREE 2** — for maximum likelihood phylogenetic reconstruction  
 - **PyMOL** — for structural visualization and comparison  
@@ -62,6 +62,10 @@ This project integrates structural prediction, phylogenetic analysis, and functi
 Most cells function as modular units, capable of carrying out specific tasks independently. 
 
 ## Reproducibility
+To reproduce the computing environment:
+```bash
+conda env create -f myenv.yml
+conda activate myenv  
 
 To reproduce the full analysis pipeline:
 
