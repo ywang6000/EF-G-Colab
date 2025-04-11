@@ -66,7 +66,7 @@ To reproduce the computing environment:
 ```bash
 conda env create -f myenv.yml
 conda activate myenv  
-
+```
 To reproduce the full analysis pipeline:
 
 1. Set your working directory (`default_path`).
