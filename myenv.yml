@@ -340,4 +340,4 @@ dependencies:
       - xxhash==3.5.0
       - xyzservices==2024.9.0
       - yarl==1.17.2
-prefix: /home/yuhong/miniconda3/envs/myenv
+
