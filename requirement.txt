@@ -1,0 +1,14 @@
+biopython
+matplotlib
+seaborn
+pandas
+numpy
+scipy
+rdkit
+pymol-open-source
+scikit-learn
+statsmodels
+pyqt
+logomaker
+jupyterlab
+ipykernel
