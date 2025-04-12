@@ -37,13 +37,7 @@ This project integrates structural prediction, phylogenetic analysis, and functi
 
 - `Cluster/folding/sel_pdb/1st_1-286_RMSD/`  
   → will contain structure clustering and PSE-based selection data and further analysis.
-
-- `ClusterMSA_min3.py`  
-  → Modified sequence clustering script using a DBSCAN-based method.
-
-- `utils.py`  
-  → Supporting utility functions adapted from:  
-    *H. Wayment-Steele et al., Nature 625, 832–839 (2024), doi:10.1038/s41586-023-06832-9.*
+  
 - `a3m_file`
 	→ example a3m files of con1 and con2 for WT
 - `WT_list1/2.txt`
@@ -55,7 +49,17 @@ This project integrates structural prediction, phylogenetic analysis, and functi
 	
 - `one node_JSD.csv`
 	→ example to repproduce figure 5.
+## attributions
+- `ClusterMSA_min3.py`  
+  → Modified sequence clustering script using a DBSCAN-based method.
 
+- `utils.py`  
+  → Supporting utility functions
+
+  these two attibutions are adapted from:  
+    *H. Wayment-Steele et al., Nature 625, 832–839 (2024), doi:10.1038/s41586-023-06832-9.*
+    *https://github.com/HWaymentSteele/AF_Cluster*
+  
 ## Key Tools and Dependencies
 - myenv.yml
 - requirement.txt
