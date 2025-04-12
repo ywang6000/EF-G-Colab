@@ -50,6 +50,9 @@ This project integrates structural prediction, phylogenetic analysis, and functi
 	→ example pse file to identify con1 and con2 for WT
 - `two .treefile and one .state file`
 	→ example treefiles and ancestor sequence file.
+	
+- `one node_JSD.csv`
+	→ example to repproduce figure 5.
 
 ## Key Tools and Dependencies
 - requirement.txt
