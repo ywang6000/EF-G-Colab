@@ -87,7 +87,7 @@ To reproduce the full analysis pipeline:
 
 If you use this code or find it helpful, please cite:
 
-> Shawonur Rahaman,Jacob H. Steele,Yi Zeng,Shoujun Xu,Yuhong Wang1 (2025).  
+> Shawonur Rahaman,Jacob H. Steele,Yi Zeng,Shoujun Xu,Yuhong Wang (2025).  
 > *Evolutionary Insights into Elongation Factor G Using AlphaFold and Ancestral Analysis*.  
 > **Computers in Biology and Medicine**, Accepted.
 
