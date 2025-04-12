@@ -14,7 +14,9 @@ This project integrates structural prediction, phylogenetic analysis, and functi
 - Functional and biophysical characterization of two reconstructed ancestral EF-G proteins.
 
 ## Contents
-
+- `myenv.yml`  
+  → computing environment.
+  
 - `EF-G_folding.ipynb`  
   → Main notebook for folding, structural and sequence-based clustering, and visualization.
 
@@ -55,6 +57,7 @@ This project integrates structural prediction, phylogenetic analysis, and functi
 	→ example to repproduce figure 5.
 
 ## Key Tools and Dependencies
+- myenv.yml
 - requirement.txt
 - **AlphaFold / ColabFold** — for structure prediction  
 - **IQ-TREE 2** — for maximum likelihood phylogenetic reconstruction  
